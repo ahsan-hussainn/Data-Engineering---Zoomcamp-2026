@@ -40,7 +40,7 @@ pip --version
 
 **Answer**: **8,254**
 
-**SQL Query**: See [`homework/sql_queries/question_3.sql`](homework/sql_queries/question_3.sql)
+**SQL Query**: See [`sql_queries/question_3.sql`](sql_queries/question_3.sql)
 
 ---
 
@@ -49,7 +49,7 @@ pip --version
 
 **Answer**: **2025-11-23**
 
-**SQL Query**: See [`homework/sql_queries/question_4.sql`](homework/sql_queries/question_4.sql)
+**SQL Query**: See [`sql_queries/question_4.sql`](sql_queries/question_4.sql)
 
 ---
 
@@ -58,7 +58,7 @@ pip --version
 
 **Answer**: **East Harlem North**
 
-**SQL Query**: See [`homework/sql_queries/question_5.sql`](homework/sql_queries/question_5.sql)
+**SQL Query**: See [`sql_queries/question_5.sql`](sql_queries/question_5.sql)
 
 ---
 
@@ -67,7 +67,7 @@ pip --version
 
 **Answer**: **JFK Airport**
 
-**SQL Query**: See [`homework/sql_queries/question_6.sql`](homework/sql_queries/question_6.sql)
+**SQL Query**: See [`sql_queries/question_6.sql`](sql_queries/question_6.sql)
 
 ---
 
@@ -234,3 +234,4 @@ docker-compose down -v
 ## ✅ Homework Submission
 
 Homework has been submitted and graded. All questions answered correctly! 🎉
+
